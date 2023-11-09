@@ -1,19 +1,12 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
-description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-hide_description: true
-redirect_from:
-  - /download/
 ---
 
-# About
+# Quem sou eu
 
 <!--author-->
 
-## Hydejack
+## Trabalhos acadêmicos
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
@@ -35,13 +28,20 @@ It includes a blog that is suitable for both prose and technical documentation, 
 {:.lead}
 
 
-## A Personal Site That Won't Disappear
+## O que você encontra aqui?
 
 **Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
 
-## Download
+## Perguntas frequentes
+
+#### Como busco atendimento?
+Badoo badoo badoo badoo doo.
+#### Qual o valor da consulta?
+The book is on the table.
+
+---
 
 {% include table.md %}
 
