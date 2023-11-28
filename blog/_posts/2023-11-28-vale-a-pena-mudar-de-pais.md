@@ -42,7 +42,7 @@ Não ache que os seus problemas vão acabar se você se mudar. Podemos mudar nos
 
 Antes, aprenda a lidar com as suas emoções e como você tem enxergado esses problemas, assim você vai estar mais resiliente para lidar com os desafios que vão surgir e realmente construir um novo recomeço. Busque terapia.
 
-É difícil, mas também gratificante.
+### É difícil, mas também gratificante
 
 Aqui, eu só posso falar da minha experiência na Inglaterra. Mesmo com as dificuldades, a qualidade de vida, a segurança e as possibilidades profissionais ajudam a superá-las. Não é fácil, mas vejo nos meus motivos congruência com os meus valores e objetivos de vida.
 

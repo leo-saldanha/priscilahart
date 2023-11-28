@@ -6,8 +6,6 @@ layout: about
 
 <!--author-->
 
-Graduada em Psicologia pela Universidade do Vale do Sapucaí, com formação em Terapia Cognitivo Comportamental e membro da Sociedade Britânica de Psicologia. Psicoterapeuta de brasileiras ao redor do mundo. 
-
 O caminho para me tornar quem sou hoje não foi linear, e acredito que isso fez toda a diferença. Sempre fui muito curiosa, e para mim, toda profissão seria possível, pois gostava de entender como as coisas funcionam. Com o passar dos anos e o ganho de maturidade, aprendi a diferenciar curiosidade, hobby e interesse, mas até chegar nessa compreensão, passei por algumas escolhas.
 
 A área da saúde surgiu quando vivi uma situação familiar e ouvi que tinha facilidade em acalmar as pessoas. Portanto, pensei que medicina talvez fosse uma boa opção para mim. Na época, não conhecia a psicologia, e aquilo fez muito sentido como um caminho a seguir.
