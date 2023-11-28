@@ -8,9 +8,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about: |
-    Nascida em 23 de Novembro de 1995 na cidade de Santa Rita do Sapucaí (Minas Gerais), 
-    Priscila Hart é Psicóloga formada pela Universdade do Vale do Sapucaí e membro da Sociedade 
-    Britância de Psicologia e fornece atendimento em Psicologia para adultos de forma remota.
+    Graduada em Psicologia pela Universidade do Vale do Sapucaí, com formação em 
+    Terapia Cognitivo Comportamental e membro da Sociedade Britânica de Psicologia. 
+    Psicoterapeuta de brasileiras ao redor do mundo. 
 
   # This photo will be used in the about section
   picture: /assets/img/logo.jpeg
