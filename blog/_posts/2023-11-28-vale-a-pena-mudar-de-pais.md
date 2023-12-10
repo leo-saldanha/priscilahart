@@ -28,7 +28,7 @@ Fato é que, mesmo que você tenha acesso a esses recursos, conhecer minimamente
 
 ### Família e companhia
 
-Essa adaptação também pode ser influenciada se você vai sozinho ou com alguém. Ter uma pessoa para dividir as dificuldades e ser um apoio nos momentos difíceis faz diferença, mas não ter não te limita em viver uma boa adaptação. Em ambos os casos, é importante buscar construir laços, isso pode ser feito através de atividades em grupos que, além de possibilitar essa aproximação, também te permite entender melhor os costumes.
+Essa adaptação também pode ser influenciada se você vai sozinho ou com alguém. Ter uma pessoa para dividir as dificuldades e ser um apoio nos momentos difíceis faz diferença, mas não ter não te limita em viver uma boa adaptação. Em ambos os casos, é importante buscar construir laços e isso pode ser feito através de atividades em grupos que, além de possibilitar essa aproximação, também te permite entender melhor os costumes.
 
 Lembre-se de que as pessoas que ficam também serão o seu apoio.
 
@@ -36,18 +36,22 @@ O contato à distância com familiares e amigos é facilitado pelas redes sociai
 
 Escolher mudar não significa que você ama menos a sua família, mas sim que você está construindo a sua vida. O amor não é geográfico.
 
-É uma vida nova, mas isso não significa que você apagou a anterior.
+### É uma vida nova, mas isso não significa que você apagou a anterior.
 
 Não ache que os seus problemas vão acabar se você se mudar. Podemos mudar nosso endereço, mas não mudamos da noite para o dia a forma como percebemos e lidamos com as situações. Se você quer mudar de país como uma forma de recomeçar do zero e esquecer os problemas, vai estar criando uma expectativa irreal para essa experiência.
 
 Antes, aprenda a lidar com as suas emoções e como você tem enxergado esses problemas, assim você vai estar mais resiliente para lidar com os desafios que vão surgir e realmente construir um novo recomeço. Busque terapia.
 
+
 ### É difícil, mas também gratificante
 
 Aqui, eu só posso falar da minha experiência na Inglaterra. Mesmo com as dificuldades, a qualidade de vida, a segurança e as possibilidades profissionais ajudam a superá-las. Não é fácil, mas vejo nos meus motivos congruência com os meus valores e objetivos de vida.
 
-Aprendi a lidar com muitas perdas, pois você perde o conhecido, o confortável, o relativamente seguro, para viver o novo, e isso exige aprender a lidar com o luto à distância, mas também aprender a celebrar à distância, aprender sobre si mesmo e quem está com você, a crescer e amadurecer.
+Aprendi a lidar com muitas perdas, pois você perde o conhecido, o confortável, o relativamente seguro, para viver o novo, e isso exige aprender a lidar com momentos de alegria e, também, de dor à distância. 
+Isso é crescer e amadurecer.
 
-E se você se permitir experimentar esse novo contexto, saiba que você pode viver experiências incríveis se alinhá-las aos seus valores e objetivos.
+E se você se permitir experimentar esse novo contexto, saiba que você pode viver experiências incríveis se alinhá-las aos seus valores e objetivos. 
+
+No final, só você vai saber responder se vale a pena ou não. Considere esses pontos e reflita sobre os seus objetivos de vida. 
 
 Já dizia Friedrich Nietzsche: <cite>Quem tem um "porquê" enfrenta qualquer "como".</cite>
