@@ -46,7 +46,7 @@ logo:                  /assets/img/bird.png
 author:
   # Used by `jekyll-feed`:
   name:                Priscila Hart
-  email:               priahart@gmail.com
+  email:               psi.priscilahart@gmail.com
   picture:             /assets/img/logo.jpeg
   about: |
     Graduada em Psicologia pela Universidade do Vale do Sapucaí, com formação em 
@@ -55,7 +55,7 @@ author:
   # # Used by `jekyll-seo-tag`:
   instagram:             priscilahart
   whatsapp:              447741164177
-  email:                 priahart@gmail.com
+  email:                 psi.priscilahart@gmail.com
 
 # Add links to the sidebar.
 menu:
@@ -99,12 +99,12 @@ theme: jekyll-theme-hydejack
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.png
-accent_color:          rgb(30,27,141)
+accent_color:          rgb(0,76,68)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(190,157,255)
+theme_color:           rgb(0,76,68)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -127,10 +127,10 @@ defaults:
   # - scope:
   #     path:            hyde/
   #   values:
-  #     accent_color:    rgb(38,139,210)
-  #     theme_color:     rgb(32,32,32)
+  #     accent_color:    rgb(0,76,68)
+  #     theme_color:     rgb(0,76,68)
   #     accent_image:
-  #       background:    rgb(32,32,32)
+  #       background:    rgb(0,76,68)
   #       overlay:       false
 
   # Don't include documents in assets in the sitemap

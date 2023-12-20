@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 author1:
   name:              Priscila Hart
-  email:             priahart@gmail.com
+  email:             psi.priscilahart@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,7 +26,7 @@ author1:
   social:
     instagram:       priscilahart
     whatsapp:        447741164177
-    email:           priahart@gmail.com
+    email:           psi.priscilahart@gmail.com
     # twitter:         <username>
     # github:          <username>
     # rss:             https://<url>/feed.xml
