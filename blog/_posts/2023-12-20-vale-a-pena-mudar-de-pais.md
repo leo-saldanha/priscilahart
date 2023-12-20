@@ -6,7 +6,7 @@ description: >
 hide_last_modified: true
 ---
 
-<img title="img-1" alt="Leonardo e Priscila em frente à Radcliff Camera." src="/assets/blog/vale-a-pena-mudar-de-pais.jpeg">
+<img title="img-1" alt="Leonardo e Priscila na muralha de Warwick Castle." src="/assets/blog/vale-a-pena-mudar-de-pais.jpeg">
 
 Há aqueles que respondem que sim, outros prontamente dizem que não, e eu vou de "depende", pois uma decisão como essa envolve algumas questões importantes que devem ser pensadas *ANTES* da mudança.
 
